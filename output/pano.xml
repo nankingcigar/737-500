@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20025" start="node11" appversion="7.0.10">
+  <panorama id="node11">
+    <input width="2992" height="2992" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" projection="4" pan="-6.09" tilt="22.94"/>
+      <flyin fov="170" projection="12" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fov="140" fovstereographic="330" pan="360" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata tags="Pano2VR7" longitude="" heading="0" nodeid="node11" description="" source="" author="" latitude="" copyright="" info="" datetime="" customnodeid="" title="左机头区" comment=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label width="180" backgroundalpha="1" borderradius="1" wordwrap="1" background="1" height="20" textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="" id="Point01" skinid="ht_node" url="{node6}" description="" pan="-324.29" tilt="-6.36" title="机头区"/>
+      <hotspot target="" id="Point02" skinid="ht_info" url="" description="雷达罩左边：固定螺钉无松脱，铆钉无松脱无拉烟，避雷条在位。无雷击、鸟击、凹坑、分层、多处掉漆" pan="-323.76" tilt="22.28" title="雷达罩左"/>
+      <hotspot target="" id="Point03" skinid="ht_image" url="images/image-32.jpg" description="皮托管：用来探测飞机的全压信号，该信号用于计算空速，高度数据。&#xa;检查标准：安装牢固在位，无烧黑（类似钢材烤蓝的颜色是正常加热所致）、烧蚀的痕迹，无堵塞。" pan="-349.39" tilt="31" title="皮托管"/>
+      <hotspot target="_top" id="Point04" skinid="ht_image" url="images/image-19.jpg" description="备用静压孔" pan="-33.46" tilt="16.81" title="备用静压孔"/>
+      <hotspot target="" id="Point05" skinid="ht_image" url="images/image.jpg" description="迎角传感器：用来感受飞机的迎角大小，提供飞机俯仰姿态信号。" pan="-357.3" tilt="31.86" title="迎角传感器"/>
+      <hotspot target="" id="Point06" skinid="ht_info" url="" description="左边驾驶舱风挡玻璃外观无损伤（裂纹、刮伤、模糊不清、分层和过热迹象）" pan="-345.2" tilt="38.76" title="左边驾驶舱风挡"/>
+      <hotspot target="" id="Point07" skinid="ht_image" url="images/image-112.jpg" description="全温探头：用来探测外界大气温度。&#xa;检查标准：安装牢固在位，底座紧固件无松脱，无堵塞，无明显烧蚀，无其他损伤。" pan="-4.6" tilt="27.41" title="全温探头"/>
+      <hotspot target="" id="Point08" skinid="ht_info" url="" description="前轮舱左舱门：无划伤、凹坑、多处掉漆等损伤。&#xa;红色线：表示最大转弯角度正负78度，在拖或推飞机转弯时，当红色指标线与拖杆平行的时候，表示已经达到最大转弯角度78度。（通过转弯手轮，可以控制飞机作最大78度的转向；而方向舵脚蹬可以提供7度的转向能力）" pan="-3.49" tilt="9.9" title="前轮舱左舱门"/>
+      <hotspot target="" id="Point09" skinid="ht_image" url="images/image-2.jpg" description="登机门手柄收回" pan="-20.21" tilt="40" title="登机门手柄"/>
+      <hotspot target="" id="Point10" skinid="ht_node" url="{node3}" description="" pan="-75.56" tilt="-5.27" title="左发区"/>
+      <hotspot target="" id="Point11" skinid="ht_image" url="images/image-4.png" description="消音板：无划伤、凹坑和压痕。&#xa;风扇叶片：先顺时针绕外侧一圈检查，再顺时针绕风扇根部一圈检查，再一片片仔细的检查：无裂纹、凹坑、鸟击、划伤等损伤。&#xa;进气道唇口：先走远点，内外上下都检查，有无雷击、鸟击、凹坑。" pan="-76.55" tilt="9.39" title="发动机视图"/>
+      <hotspot target="" id="Point12" skinid="ht_image" url="images/image-6.png" description="转弯灯与固定着陆灯：灯丝无断裂，灯罩完好" pan="-58.68" tilt="13.97" title="转弯灯与固定着陆灯"/>
+      <hotspot target="" id="Point13" skinid="ht_info" url="" description="克鲁格襟翼（2个）在收上位，封严，无渗漏" pan="-61.96" tilt="10.19" title="克鲁格襟翼"/>
+      <hotspot target="" id="Point14" skinid="ht_info" url="" description="在大迎角飞行时，安装在翼根处的失速带因前段有锯齿状的突起，引起涡流发生，过早的涡流发生会导致翼根处升力下降，这时，本应早于翼根处失速的翼尖处还没有达到临界迎角，大型客机的重心靠前，翼根升力下降，会导致飞机机头向下，减小迎角，防止失速。同时保证翼尖处的副翼不会由于失速失去效应。" pan="-67.45" tilt="12.8" title="失速条"/>
+      <hotspot target="" id="Point15" skinid="ht_info" url="" description="大翼前缘：无雷击、无鸟击、无凹坑、无划伤" pan="-62.97" tilt="14.06" title="大翼前缘"/>
+      <hotspot target="" id="Point17" skinid="ht_image2" url="images/-1.png" description="易漏检-皮托管鸟击实例" pan="-358.31" tilt="36.81" title="易漏检-皮托管鸟击"/>
+      <hotspot target="" id="Point18" skinid="ht_image" url="images/image-45.jpg" description="前厕所水系统排放口：在位，有无堵塞，标识文字清晰完整。&#xa;污水系统前收集池排放口：在位，有无堵塞，标识文字清晰完整。" pan="-12.29" tilt="13.46" title="水系统排放口"/>
+      <hotspot target="" id="Point19" skinid="ht_image" url="images/image-101.png" description="检查标准：是否有鸟击和雷击，有无凹坑、划痕、掉漆，紧固件无松动，蒙皮铆钉没有明显的拉烟现象" pan="-24.38" tilt="21.22" title="左侧机身蒙皮"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" blendcolor="0x000000" softedge="0" zoomoutpause="1" enabled="1" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control contextprojections="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertwheel="0" lockedmouse="0" contextvr="1" zoomcentercursor="1" rubberband="0" invertcontrol="1" dblclickfullscreen="0" sensitivity="8" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input width="2992" height="2992" levelingroll="1.86978" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingpitch="-1.67221">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="74.0583" projection="4" pan="2.44975" tilt="9.29774"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fov="140" fovstereographic="330" pan="360" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata tags="Pano2VR7" longitude="" heading="0" nodeid="node6" description="" source="" author="" latitude="" copyright="" info="" datetime="" customnodeid="" title="机头区" comment=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label width="180" backgroundalpha="1" borderradius="1" wordwrap="1" background="1" height="20" textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="" id="Point01" skinid="ht_image" url="images/image-65.png" description="检查标准：&#xa;1.固定螺钉无松脱，铆钉无松脱无拉烟，无雷击、鸟击、凹坑、多处掉漆。&#xa;2.观察6条避雷条是否在位，最多允许2条防雷击条缺失或损坏。" pan="-358.87" tilt="19.98" title="雷达罩"/>
+      <hotspot target="" id="Point02" skinid="ht_image" url="images/image-16.jpg" description="检查标准：驾驶舱风挡玻璃外观无损伤（裂纹、刮伤、模糊不清、分层和过热迹象）" pan="-353.65" tilt="22.36" title="风挡"/>
+      <hotspot target="" id="Point04" skinid="ht_image" url="images/image-31.jpg" description="雨刷是否在放下位" pan="-2.45" tilt="22.34" title="雨刷"/>
+      <hotspot target="" id="Point05" skinid="ht_image" url="images/image-86.jpg" description="滑行灯：固定可靠、灯丝有无断、灯罩完好" pan="-358.19" tilt="0.13" title="滑行灯"/>
+      <hotspot target="" id="Point06" skinid="ht_image" url="images/image-86.jpg" description="起落架镜面：镜面高度在勤务范围内，镜面无划痕、刻伤或凹槽，油液无明显渗漏" pan="-358.17" tilt="-0.92" title="起落架镜面"/>
+      <hotspot target="" id="Point07" skinid="ht_node" url="{node11}" description="" pan="-342.56" tilt="-6.02" title="左机头区"/>
+      <hotspot target="" id="Point08" skinid="ht_node" url="{node8}" description="" pan="-10.37" tilt="-6.13" title="右机头区"/>
+      <hotspot target="" id="Point09" skinid="ht_image2" url="images/-1.png" description="易漏检-皮托管鸟击实例" pan="-350" tilt="14.63" title="易漏检-皮托管鸟击"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" blendcolor="0x000000" softedge="0" zoomoutpause="1" enabled="1" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control contextprojections="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertwheel="0" lockedmouse="0" contextvr="1" zoomcentercursor="1" rubberband="0" invertcontrol="1" dblclickfullscreen="0" sensitivity="8" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input width="2992" height="2992" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" projection="4" pan="169.869" tilt="25.079"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fov="140" fovstereographic="330" pan="360" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata tags="Pano2VR7" longitude="" heading="0" nodeid="node8" description="" source="" author="" latitude="" copyright="" info="" datetime="" customnodeid="" title="右机头区" comment=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label width="180" backgroundalpha="1" borderradius="1" wordwrap="1" background="1" height="20" textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="" id="Point01" skinid="ht_node" url="{node6}" description="" pan="-224.57" tilt="-6.74" title="机头区"/>
+      <hotspot target="" id="Point03" skinid="ht_info" url="" description="雷达罩右边：固定螺钉无松脱，铆钉无松脱无拉烟，避雷条在位。无雷击、鸟击、凹坑、分层、多处掉漆" pan="-231.01" tilt="23.98" title="雷达罩右"/>
+      <hotspot target="" id="Point04" skinid="ht_image" url="images/image-114.png" description="右边驾驶舱风挡玻璃外观无损伤（裂纹、刮伤、模糊不清、分层和过热迹象）" pan="-207.14" tilt="41.3" title="右边驾驶舱风挡"/>
+      <hotspot target="" id="Point05" skinid="ht_image" url="images/image-114.png" description="副驾侧滑动风挡应急打开手柄：在正常位，且标识文字清晰完整" pan="-211.64" tilt="36.14" title="副驾侧滑动风挡应急打开手柄"/>
+      <hotspot target="" id="Point06" skinid="ht_image" url="images/image-14.jpg" description="右皮托管：安装牢固在位，无烧黑（类似钢材烤蓝的颜色是正常加热所致）、烧蚀的痕迹，无堵塞" pan="-196.59" tilt="38.3" title="右皮托管"/>
+      <hotspot target="" id="Point07" skinid="ht_image" url="images/image.jpg" description="右迎角传感器：确认在位且无损伤" pan="-195.62" tilt="34.09" title="右迎角传感器"/>
+      <hotspot target="" id="Point08" skinid="ht_image" url="images/P19.png" description="外部电源盖板（P19板）：盖板及周围蒙皮无明显损伤、变形，盖板安装牢固，关闭后与蒙皮平齐，标识文字清晰完整，锁扣功能正常" pan="-206.68" tilt="23.26" title="外部电源盖板（P19板）"/>
+      <hotspot target="" id="Point09" skinid="ht_info" url="" description="前轮舱右舱门：无划伤、凹坑、多处掉漆等损伤。红色线表示最大转弯角度正负78度，在拖或推飞机转弯时，当红色指标线与拖杆平行的时候，表示已经达到最大转弯角度78度" pan="-190.22" tilt="10.27" title="前轮舱右舱门"/>
+      <hotspot target="" id="Point10" skinid="ht_info" url="" description="前电子舱门：电子舱门关上，手柄完全在槽内，与机身蒙皮平齐，舱门及周围无明显损伤，且标识文字清晰完整" pan="-211.33" tilt="15" title="前电子舱门"/>
+      <hotspot target="" id="Point11" skinid="ht_info" url="" description="右前勤务门：外表面无明显损伤、凹坑。外表标识文字清晰完整。舱门上观察无明显损伤、裂纹、污染。舱门手柄完全在槽内与舱门平齐，关闭舱门后舱门周围蒙皮平齐" pan="-172.31" tilt="38.02" title="右前勤务门"/>
+      <hotspot target="" id="Point12" skinid="ht_info" url="" description="客舱窗户：固定良好，有无划伤，无外来物损伤" pan="-157.44" tilt="35.96" title="客舱窗户"/>
+      <hotspot target="" id="Point13" skinid="ht_image" url="images/image-19.jpg" description="备用静压孔" pan="-158.94" tilt="14.14" title="备用静压孔"/>
+      <hotspot target="" id="Point14" skinid="ht_image2" url="images/1-7.jpg" description="前货舱：4个烟雾探测器，8个照明灯，可以通往客舱，控制压力释压板，检查地板有无杂物、积水、腐蚀" pan="-148.21" tilt="14.33" title="前货舱"/>
+      <hotspot target="" id="Point15" skinid="ht_node" url="{node4}" description="" pan="-116.75" tilt="-5.71" title="右发区"/>
+      <hotspot target="" id="Point16" skinid="ht_node" url="{node12}" description="" pan="-94.24" tilt="-2.9" title="右大翼区"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" blendcolor="0x000000" softedge="0" zoomoutpause="1" enabled="1" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control contextprojections="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertwheel="0" lockedmouse="0" contextvr="1" zoomcentercursor="1" rubberband="0" invertcontrol="1" dblclickfullscreen="0" sensitivity="8" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input width="1488" height="1488" levelingroll="1.5619099999999999" levelbiashidpi="1.000" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingpitch="2.18187">
+      <level width="1488" preload="0" height="1488" predecode="0"/>
+      <level width="744" preload="0" height="744" predecode="0"/>
+      <level width="372" preload="1" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="87.4767" projection="4" pan="-1.16064" tilt="8.83018"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fov="140" fovstereographic="330" pan="360" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata tags="panorama" longitude="" heading="0" nodeid="node17" description="" source="" author="" latitude="" copyright="" info="" datetime="" customnodeid="" title="前部机腹" comment=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label width="180" backgroundalpha="1" borderradius="1" wordwrap="1" background="1" height="20" textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="" id="Point01" skinid="ht_node" url="{node2}" description="" pan="-208.52" tilt="-10.84" title="左前缘区"/>
+      <hotspot target="" id="Point02" skinid="ht_node" url="{node13}" description="" pan="-155.46" tilt="-11.1" title="右前缘区"/>
+      <hotspot target="" id="Point03" skinid="ht_node" url="{node4}" description="" pan="-122.87" tilt="-8.48" title="右发区"/>
+      <hotspot target="" id="Point04" skinid="ht_node" url="{node3}" description="" pan="-245.48" tilt="-8.12" title="左发区"/>
+      <hotspot target="" id="Point05" skinid="ht_info" url="" description="ATC：空中交通管制，向地面发送本机高度和接收其他飞机高度信息。&#xa;天线：安装牢固、外观正常、封严胶状态良好、固定螺钉无松脱、无大面积或多处脱漆。" pan="-1076.38" tilt="30.08" title="ATC天线"/>
+      <hotspot target="" id="Point06" skinid="ht_image" url="images/image-125.png" description="主电子舱门：电子舱门关上，手柄完全在槽内，与机身蒙皮平齐，舱门及周围无明显损伤，且标识文字清晰完整" pan="-10.93" tilt="23.37" title="主电子舱门"/>
+      <hotspot target="" id="Point08" skinid="ht_info" url="" description="VHF：视距范围内的通讯（包括飞机与飞机，飞机与地面站台），但距离有限" pan="-183.96" tilt="5.15" title="VHF天线"/>
+      <hotspot target="" id="Point09" skinid="ht_info" url="" description="座舱增压余水口：无堵塞、无损伤" pan="-356.8" tilt="59.14" title="座舱增压余水口"/>
+      <hotspot target="" id="Point10" skinid="ht_image" url="images/TCAS.jpg" description="TCAS：交通管制与防撞系统，用来探测周围飞机的方位。&#xa;天线：安装牢固、外观正常、封严胶状态良好、固定螺钉无松脱、无大面积或多处脱漆" pan="-2.11001" tilt="14.08" title="TCAS天线"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" blendcolor="0x000000" softedge="0" zoomoutpause="1" enabled="1" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control contextprojections="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertwheel="0" lockedmouse="0" contextvr="1" zoomcentercursor="1" rubberband="0" invertcontrol="1" dblclickfullscreen="0" sensitivity="8" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="2992" height="2992" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="85.4589" projection="4" pan="-6.54791" tilt="20.0658"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fov="140" fovstereographic="330" pan="360" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata tags="yezi" longitude="" heading="0" nodeid="node4" description="" source="" author="" latitude="" copyright="" info="" datetime="" customnodeid="" title="右发区" comment=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label width="180" backgroundalpha="1" borderradius="1" wordwrap="1" background="1" height="20" textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="" id="Point01" skinid="ht_node" url="{node13}" description="" pan="-23.52" tilt="-4.25" title="右前缘区"/>
+      <hotspot target="" id="Point02" skinid="ht_image2" url="images/image-84.png" description="消音板：无划伤、凹坑和压痕。&#xa;风扇叶片：先顺时针绕外侧一圈检查，再顺时针绕风扇根部一圈检查，再一片片仔细的检查：无裂纹、凹坑、鸟击、划伤等损伤。&#xa;进气道唇口：先走远点，内外上下都检查，有无雷击、鸟击、凹坑。&#xa;加强板：无划伤，凹坑和压痕&#xa;防摩层：无明显被磨损。&#xa;前整流锥：无划伤，凹坑和压痕，6颗螺丝在位，无松脱&#xa;后整流锥：无损伤，配平螺丝在位&#xa;风扇平台无凸显出来&#xa;T12：将进气口温度采集数据传给EEC。探头在位，不允许有损伤和阻塞。" pan="-0.54" tilt="19.78" title="发动机视图"/>
+      <hotspot target="" use3D="1" id="Point03" url="{node12}" customimageheight="1659" description="" fov="8" pan="-329.82" tilt="-3.93" distance3D="13499.8" customimagewidth="1888" skinid="ht_node" customimage="media/image-31.png" title="右大翼区"/>
+      <hotspot target="" id="Point04" skinid="ht_image" url="images/image-46.png" description="转弯灯与固定着陆灯：灯丝无断裂，灯罩完好" pan="-33.38" tilt="24.49" title="转弯灯与固定着陆灯"/>
+      <hotspot target="" id="Point05" skinid="ht_info" url="" description="大翼翼身整流罩：封严条完好，无皱纹等重着陆现象，铆钉无松脱" pan="-42.11" tilt="21.46" title="大翼翼身整流"/>
+      <hotspot target="" id="Point07" skinid="ht_info" url="" description="大翼前缘：无雷击、无鸟击、无凹坑、无划伤" pan="-27.42" tilt="23.94" title="大翼前缘"/>
+      <hotspot target="" id="Point08" skinid="ht_info" url="" description="克鲁格襟翼（2个）在收上位，封严，无渗漏" pan="-23.54" tilt="20.34" title="克鲁格襟翼"/>
+      <hotspot target="" id="Point09" skinid="ht_info" url="" description="大翼照明灯：灯丝无断裂，灯罩完好" pan="-46.13" tilt="33" title="大翼照明灯"/>
+      <hotspot target="" id="Point10" skinid="ht_node" url="{node8}" description="" pan="-136.4" tilt="-5.07" title="右机头区"/>
+      <hotspot target="" id="Point12" skinid="ht_image2" url="images/1-21.jpg" description="拆流门：固定、无损伤&#xa;冲压门：全开位&#xa;进气道：无异物" pan="-49.8" tilt="16.53" title="冲压进气口"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" blendcolor="0x000000" softedge="0" zoomoutpause="1" enabled="1" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control contextprojections="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertwheel="0" lockedmouse="0" contextvr="1" zoomcentercursor="1" rubberband="0" invertcontrol="1" dblclickfullscreen="0" sensitivity="8" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input width="2992" height="2992" levelingroll="2.4037299999999999" levelbiashidpi="1.000" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingpitch="-6.9678899999999997">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" projection="4" pan="21.9798" tilt="11.9081"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fov="140" fovstereographic="330" pan="360" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata tags="Pano2VR7" longitude="" heading="0" nodeid="node13" description="" source="" author="" latitude="" copyright="" info="" datetime="" customnodeid="" title="右前缘区" comment=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label width="180" backgroundalpha="1" borderradius="1" wordwrap="1" background="1" height="20" textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="" id="Point01" skinid="ht_image" url="images/image-135.png" description="起落架安全销在位，内外桶未分离" pan="-9.99" tilt="27.79" title="起落架安全销"/>
+      <hotspot target="" id="Point02" skinid="ht_image" url="images/image-10.jpg" description="地面扰流板控制钢索：在位未破损" pan="-354.02" tilt="18.56" title="地面扰流板控制钢索"/>
+      <hotspot target="" id="Point04" skinid="ht_image" url="images/image-76.jpg" description="无损伤" pan="-352.42" tilt="3.38" title="防扭臂"/>
+      <hotspot target="" id="Point05" skinid="ht_image" url="images/image-76.jpg" description="左右起落架减摆器间隙会不一样，因为飞机停下来的时候，减摆器在什么位置就瞬时停留在什么位置，因而间隙指示会不一样。" pan="-357.65" tilt="-2.96" title="减摆器"/>
+      <hotspot target="" id="Point07" skinid="ht_info" url="" description="用于漏燃油。正常情况无异常液体漏出" pan="-315.39" tilt="19.22" title="吊架余油口"/>
+      <hotspot target="" id="Point08" skinid="ht_info" url="" description="无烧蚀的裂纹，无明显损伤" pan="-299.38" tilt="20.39" title="尾椎"/>
+      <hotspot target="" id="Point09" skinid="ht_info" url="" description="发动机反推*最底、最后端，若发动机受到雷击，最容易从这释放雷击电，会出现雷击释放点" pan="-264.95" tilt="11.37" title="易雷击点"/>
+      <hotspot target="" id="Point10" skinid="ht_info" url="" description="吊架附近：吊架锁扣扣好，螺钉无丢失&#xa;吊架下面面板：无划伤，螺钉无丢失" pan="-278.97" tilt="43.76" title="吊架"/>
+      <hotspot target="" id="Point11" skinid="ht_image" url="images/image-66.jpg" description="飞机在空中飞行，表面会形成层流附面层和外一层的紊流附面层，因为层流附面层薄，空气阻力大，耗油，然后安装了涡流发生器，增加了层流附面层的厚度，减少了空气阻力，省油。同样道理，增加翼尖小翼，减少诱导阻力，省油。检查涡流发生器在位，封严完好无缺损" pan="-209.65" tilt="43.49" title="发动机涡流发生器"/>
+      <hotspot target="" id="Point12" skinid="ht_image" url="images/image-25.jpg" description="启动机超控接近口，启动机不工作，人工控制启动活门，需要工具是加长杆和扳手，旋转开启或关闭；机组说可以启动才扳动开启，有APU引气进来，带动启动机转动；启动好后，机组说关闭，才关闭，要是关不了就不能放行。如果左边发动机有这个问题，那机务就不能再登上该飞机" pan="-208.06" tilt="29.22" title="启动机人工超控"/>
+      <hotspot target="" id="Point13" skinid="ht_image" url="images/IDG.png" description="按压15秒通气活门，在本体上观察IDG滑油量，左发读左边，右发读右边；压差指示销有没有弹出：前两次弹出换油滤，第三次弹出要换IDG；加油口堵盖有没有盖好；IDG盖板上的标志，如果模糊或被刮落，要报放行" pan="-209.5" tilt="18.66" title="IDG滑油勤务盖板"/>
+      <hotspot target="" id="Point14" skinid="ht_info" url="" description="油尺：共16个油尺，每侧8个，每侧1到2号为中央油箱油尺，3到8号为相对应的主油箱油尺。油尺凹槽要与旁边的两点相对在一条直线上，无突出，无燃油渗漏" pan="-319.41" tilt="56.4" title="油尺"/>
+      <hotspot target="" id="Point15" skinid="ht_info" url="" description="冲压空气排气口：无外来物，无异常液体渗漏" pan="-51" tilt="16.28" title="冲压空气排气口"/>
+      <hotspot target="" id="Point16" skinid="ht_info" url="" description="防撞灯：灯罩外观完好，固定螺钉无松脱" pan="-118.69" tilt="20.07" title="防撞灯"/>
+      <hotspot target="" id="Point17" skinid="ht_info" url="" description="DME：测距仪，用来测量飞机到地面台的距离。&#xa;天线：安装牢固、外观正常、封严胶状态良好、固定螺钉无松脱、无大面积或多处脱漆" pan="-95.44" tilt="19.16" title="DME天线"/>
+      <hotspot target="" id="Point18" skinid="ht_info" url="" description="空调组件接近盖板：锁扣锁好" pan="-105.1" tilt="29.04" title="空调组件接近盖板"/>
+      <hotspot target="" id="Point19" skinid="ht_image" url="images/image-46.jpg" description="可收放着陆灯：灯丝无断裂，灯罩完好" pan="-305.61" tilt="12" title="可收放着陆灯"/>
+      <hotspot target="" id="Point20" skinid="ht_info" url="" description="先走远点，内外上下都检查，有无雷击、鸟击、凹坑" pan="-200.13" tilt="22.53" title="唇口"/>
+      <hotspot target="" id="Point21" skinid="ht_node" url="{node8}" description="" pan="-173.32" tilt="3.25" title="右机头区"/>
+      <hotspot target="" id="Point22" skinid="ht_info" url="" description="前排泄桅杆：排泄前厨房、前厕所洗手池的水，又叫灰水。桅杆固定良好，无外来物损伤，无堵塞，无异常液体渗流" pan="-114.48" tilt="14.73" title="前排泄桅杆"/>
+      <hotspot target="" id="Point23" skinid="ht_info" url="" description="上下左右，每台发动机有4个，固定在位，铆钉无松脱" pan="-248.26" tilt="34.78" title="反推作动接近盖板"/>
+      <hotspot target="" id="Point24" skinid="ht_image" url="images/image-58.jpg" description="解除反推销在驾驶舱器材包里，将销子插进四个反推解除孔内，反推失效" pan="-227.4" tilt="35.63" title="反推解除插孔"/>
+      <hotspot target="" id="Point25" skinid="ht_image" url="images/image-95.png" description="1.拔磁堵接近盖板：锁扣扣好&#xa;2.趴下观察反推锁扣，6个扣好在位&#xa;3.启动机排气口&#xa;4.滑油余油口；燃油余油口；IDG滑油与液压余油口；检查无液体渗漏，如滑油渗漏（不包括IDG滑油冷却系统）放行标准，1分钟不超过7滴；&#xa;5.风扇*锁扣3个扣好" pan="-223.78" tilt="12.79" title="发动机底部视图"/>
+      <hotspot target="" id="Point26" skinid="ht_image" url="images/image-56.jpg" description="" pan="-230.67" tilt="28.17" title="右发侧视图"/>
+      <hotspot target="" id="Point27" skinid="ht_image2" url="images/1.png" description="1：内涵道壁板：紧固件无松脱，无烧蚀的裂纹，无明显损伤&#xa;2：最后一级涡轮导向叶片：无明显的烧蚀，裂纹，掉块等损伤&#xa;3：最后一级涡轮叶片：无明显的烧蚀，裂纹，掉块等损伤。&#xa;1：外涵道壁板：紧固件无松脱，无烧蚀的裂纹，无明显损伤&#xa;2：反推折流门拉杆&#xa;3：外涵道支撑杆：无明显损伤&#xa;4：外涵道出口导向叶片：无凹坑、无裂纹，掉块等损伤&#xa;5：IDG散热器：固定在位&#xa;1：火焰抑制器：钢网完好，不能有漏油，漏油报放行（为什么会漏油：油气分离得不完全）火焰抑制器往里是5号轴承；&#xa;10：反推对齐黑线对齐" pan="-267.92" tilt="29.1" title="发动机后视图"/>
+      <hotspot target="" id="Point28" skinid="ht_node" url="{node12}" description="" pan="-292.26" tilt="-9.69" title="右大翼区"/>
+      <hotspot target="" id="Point29" skinid="ht_node" url="{node4}" description="" pan="-204.5" tilt="1.62" title="右发区"/>
+      <hotspot target="" id="Point03" skinid="ht_image" url="images/image-24.jpg" description="指点信标：在飞机飞过航路点上信标时，提供相应指示" pan="-77.85" tilt="18.46" title="指点信标天线"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" blendcolor="0x000000" softedge="0" zoomoutpause="1" enabled="1" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control contextprojections="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertwheel="0" lockedmouse="0" contextvr="1" zoomcentercursor="1" rubberband="0" invertcontrol="1" dblclickfullscreen="0" sensitivity="8" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input width="2992" height="2992" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" projection="4" pan="177.957" tilt="23.8732"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fov="140" fovstereographic="330" pan="360" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata tags="Pano2VR7" longitude="" heading="0" nodeid="node12" description="" source="" author="" latitude="" copyright="" info="" datetime="" customnodeid="" title="右大翼区" comment=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label width="180" backgroundalpha="1" borderradius="1" wordwrap="1" background="1" height="20" textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="" id="PointA" skinid="ht_image2" url="images/image-55.jpg" description="打开锁扣，检查加油口盖封圈是否完好，有无变形，盖好，无松动迹象" pan="-259.83" tilt="15.8" title="发动机滑油勤务盖板"/>
+      <hotspot target="" id="Point02" skinid="ht_info" url="" description="无雷击、鸟击、划伤、凹坑" pan="-278.08" tilt="12.22" title="右边外侧唇口"/>
+      <hotspot target="" id="Point03" skinid="ht_info" url="" description="无划伤，螺钉无丢失" pan="-226.31" tilt="17.89" title="吊架下面面板"/>
+      <hotspot target="" id="Point04" skinid="ht_info" url="" description="1：缝翼，里边三个有防冰冻出气口，检查有无堵塞&#xa;2：缝翼前缘有无雷击、鸟击、划痕、凹坑&#xa;3：缝翼封严良好，动作链接处有无油液渗漏" pan="-220.15" tilt="25.96" title="前缘缝翼"/>
+      <hotspot target="" id="Point05" skinid="ht_info" url="" description="安装牢固、外观正常、封严胶状态良好、固定螺钉无松脱、无大面积或多处脱漆" pan="-221.96" tilt="3.25" title="VHF天线"/>
+      <hotspot target="" id="Point06" skinid="ht_info" url="" description="无液压渗漏，外观完好" pan="-206.11" tilt="13.63" title="船型整流罩"/>
+      <hotspot target="" id="Point07" skinid="ht_info" url="" description="无液压渗漏，外观完好" pan="-173.31" tilt="18.33" title="船型整流罩"/>
+      <hotspot target="" id="Point08" skinid="ht_info" url="" description="收上在位，铰链完好，封严好，无渗漏，无损伤" pan="-203.12" tilt="17.09" title="后缘襟翼"/>
+      <hotspot target="" id="Point09" skinid="ht_info" url="" description="1：缝翼，里边三个有防冰冻出气口，检查有无堵塞&#xa;2：缝翼前缘有无雷击、鸟击、划痕、凹坑&#xa;3：缝翼封严良好，动作链接处有无油液渗漏" pan="-171.61" tilt="29.26" title="前缘缝翼"/>
+      <hotspot target="" id="Point10" skinid="ht_info" url="" description="1：缝翼，里边三个有防冰冻出气口，检查有无堵塞&#xa;2：缝翼前缘有无雷击、鸟击、划痕、凹坑&#xa;3：缝翼封严良好，动作链接处有无油液渗漏" pan="-142.86" tilt="22.91" title="前缘缝翼"/>
+      <hotspot target="" id="Point11" skinid="ht_info" url="" description="无液压渗漏，外观完好" pan="-194.98" tilt="16.31" title="船型整流罩"/>
+      <hotspot target="" id="Point12" skinid="ht_info" url="" description="1：副翼：操纵飞机的纵轴飞行姿态。在横滚操纵期间，一侧机翼的副翼向上运动，另一侧机翼的副翼向下运动。铰链完好，封严好，无渗漏，无损伤。&#xa;2：副翼调整片：调整片作用是帮助驾驶员操纵舵面用的，波音系列都是钢索控制，控制调整片的偏度可以改变主操纵面上的铰链力矩，减小的驾驶杆（或脚蹬）力，以减轻驾驶员的负担。" pan="-153.78" tilt="19.88" title="副翼和副翼调整片"/>
+      <hotspot target="" id="Point13" skinid="ht_image" url="images/image-101.jpg" description="固定可靠、灯罩完好、可用（通过驾驶舱测试好坏）" pan="-136.9" tilt="20.19" title="航行灯和频闪灯"/>
+      <hotspot target="" id="Point14" skinid="ht_image" url="images/image-23.jpg" description="1.油箱通风口：保持燃油箱中的压力接近环境压力，过大的压差会损坏机翼结构。通气口无堵塞，无燃油流出。&#xa;2.火焰抑制器（作用：可防止过多热量进入燃油通气系统）无堵塞且在位。&#xa;3.压力释放活门：在油箱中正压或负压过大时，释压活门打开。压力释放活门复位手柄与机翼下表面平齐" pan="-148.23" tilt="22.43" title="油箱通风口和释压活门"/>
+      <hotspot target="" id="Point15" skinid="ht_node" url="{node4}" description="" pan="-283.66" tilt="-7.11" title="右发区"/>
+      <hotspot target="" id="Point16" skinid="ht_info" url="" description="上下左右，每台发动机有4个，固定在位，铆钉无松脱" pan="-239.15" tilt="17.02" title="反推作动接近盖板"/>
+      <hotspot target="" id="Point17" skinid="ht_image" url="images/image-58.jpg" description="解除反推销在驾驶舱器材包里，将销子插进四个反推解除孔内，反推失效" pan="-246.82" tilt="17.83" title="反推解除插孔"/>
+      <hotspot target="" id="Point18" skinid="ht_info" url="" description="吊架锁扣扣好，螺钉无丢失" pan="-251.39" tilt="26.61" title="右边吊架附近"/>
+      <hotspot target="" id="Point19" skinid="ht_image" url="images/image-105.png" description="1：EEC冷却空气进气口；无堵塞&#xa;2：T12接近盖板" pan="-273.57" tilt="23.44" title="T12接近盖板"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" blendcolor="0x000000" softedge="0" zoomoutpause="1" enabled="1" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control contextprojections="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertwheel="0" lockedmouse="0" contextvr="1" zoomcentercursor="1" rubberband="0" invertcontrol="1" dblclickfullscreen="0" sensitivity="8" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input width="1488" height="1488" levelingroll="-0.56324600000000002" levelbiashidpi="1.000" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingpitch="0.33586700000000003">
+      <level width="1488" preload="0" height="1488" predecode="0"/>
+      <level width="744" preload="0" height="744" predecode="0"/>
+      <level width="372" preload="1" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="108.174" projection="4" pan="-13.7171" tilt="3.99426"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fov="140" fovstereographic="330" pan="360" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata tags="panorama" longitude="" heading="0" nodeid="node16" description="" source="" author="" latitude="" copyright="" info="" datetime="" customnodeid="" title="右起落架区" comment=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label width="180" backgroundalpha="1" borderradius="1" wordwrap="1" background="1" height="20" textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="" id="Point01" skinid="ht_node" url="{node5}" description="" pan="-218.94" tilt="-7.33" title="机尾右侧"/>
+      <hotspot target="" id="Point02" skinid="ht_info" url="" description="固定良好可靠，无明显损伤（上是外舱门，中舱门，下是内舱门）" pan="-18.24" tilt="16.72" title="轮舱门"/>
+      <hotspot target="" id="Point03" skinid="ht_image2" url="images/image-128.png" description="起落架镜面：镜面高度在勤务范围内，镜面无划痕、刻伤或凹槽，油液无明显渗漏" pan="-11.09" tilt="-6.96" title="主起落架镜面"/>
+      <hotspot target="" id="Point04" skinid="ht_image" url="images/image-141.jpg" description="无裂纹，紧固件无松脱，无损伤" pan="-28.04" tilt="-13.28" title="轮毂"/>
+      <hotspot target="" id="Point05" skinid="ht_image2" url="images/1-58.png" description="无扎伤、无磨损超标，无鼓包，掉块，分层现象（具体标准详见日检工卡）" pan="-20.53" tilt="-8.91" title="胎面和轮压"/>
+      <hotspot target="" id="Point06" skinid="ht_image" url="images/image-102.jpg" description="每一个都要检查。刹车毂作动筒无油液渗漏，无明显损伤，保险良好" pan="354.85" tilt="-18.06" title="刹车毂作动筒"/>
+      <hotspot target="" id="Point07" skinid="ht_image" url="images/image-97.jpg" description="1.打压设置停留刹车后检查伸出长度满足日检工卡要求&#xa;2.检查液压接头无渗漏" pan="-4.37001" tilt="-9.71" title="刹车指示销和液压接头"/>
+      <hotspot target="" id="Point09" skinid="ht_info" url="" description="应急灯：灯丝无断裂，灯罩完好，可用" pan="-263.4" tilt="15.41" title="应急灯"/>
+      <hotspot target="" id="Point08" skinid="ht_image" url="images/image.jpeg" description="刹车渗漏点" pan="-11.24" tilt="-24.11" title="刹车渗漏点"/>
+      <hotspot target="" id="Point10" skinid="ht_image" url="images/image.png" description="在位，无缺失" pan="-217.65" tilt="21.02" title="涡流发生器"/>
+      <hotspot target="" id="Point11" skinid="ht_node" url="{node12}" description="" pan="-123.28" tilt="-5.85" title="右大翼区"/>
+      <hotspot target="" id="Point12" skinid="ht_image" url="images/image-48.jpg" description="固定可靠，灯罩完好、可用" pan="-128.03" tilt="10.75" title="尾白灯"/>
+      <hotspot target="" id="Point13" skinid="ht_image" url="images/image-48.jpg" description="有翼尖小翼：2个放电刷在位，无折断；无翼尖小翼：4个放电刷在位，无折断" pan="-125.4" tilt="14.28" title="放电刷"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" blendcolor="0x000000" softedge="0" zoomoutpause="1" enabled="1" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control contextprojections="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertwheel="0" lockedmouse="0" contextvr="1" zoomcentercursor="1" rubberband="0" invertcontrol="1" dblclickfullscreen="0" sensitivity="8" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="2992" height="2992" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="93.4775" projection="4" pan="172.044" tilt="32.9187"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fov="140" fovstereographic="330" pan="360" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata tags="yezi" longitude="" heading="0" nodeid="node5" description="" source="" author="" latitude="" copyright="" info="" datetime="" customnodeid="" title="机尾右侧" comment=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label width="180" backgroundalpha="1" borderradius="1" wordwrap="1" background="1" height="20" textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="" id="Point01" skinid="ht_node" url="{node9}" description="" pan="-175.36" tilt="-2.17" title="机尾左侧"/>
+      <hotspot target="" id="Point02" skinid="ht_image" url="images/image-12.jpg" description="控制排出飞机机体的气流从而调节座舱压力。可见部分无损伤，在地面处于完全打开位" pan="-193.44" tilt="17.14" title="后溢流活门"/>
+      <hotspot target="" id="Point03" skinid="ht_image" url="images/APU-4.jpg" description="航后不用APU时候在关上位，无外来物堵塞，机械结构固定良好且无外来物损伤" pan="-172.35" tilt="32.33" title="APU进气口"/>
+      <hotspot target="" id="Point04" skinid="ht_info" url="" description="外表面无明显损伤、凹坑。外表标识文字清晰完整。舱门上观察无明显损伤、裂纹、污染。舱门手柄完全在槽内与舱门平齐，关闭舱门后舱门与周围蒙皮平齐" pan="-193.57" tilt="30.58" title="右后勤务门"/>
+      <hotspot target="" id="Point05" skinid="ht_image" url="images/image-17.jpg" description="水平安定面位置指示对齐中间那条指示线；滑动封严：在位，无损伤，无液体渗漏" pan="-157.61" tilt="31.82" title="水平安定面与机身结合处"/>
+      <hotspot target="" id="Point06" skinid="ht_image" url="images/image-28.png" description="1.APU冷却空气进气口：无外来物堵塞，无明显损伤和异常液体。&#xa;2.APU排气口：无外来物堵塞，无明显损伤和异常液体。&#xa;3.机尾频闪灯：固定可靠，灯罩完好、可用。" pan="-145.81" tilt="26.16" title="尾部检查区域"/>
+      <hotspot target="" id="Point07" skinid="ht_image" url="images/image-12.jpg" description="防止机舱过压而损坏飞机结构。座舱气压比外界大于8.95 PSI就打开" pan="-194.4" tilt="22.74" title="安全释压活门"/>
+      <hotspot target="" id="Point08" skinid="ht_info" url="" description="无损伤" pan="-227" tilt="14.5" title="后货舱"/>
+      <hotspot target="" id="Point09" skinid="ht_image" url="images/image-134.jpg" description="给升降舱感觉计算机提供一个空速信号。固定良好，无损伤，无堵塞。" pan="-174.88" tilt="43.5" title="皮托管"/>
+      <hotspot target="" id="Point10" skinid="ht_image" url="images/image-105.jpg" description="垂尾顶部有4个放电刷，在位，无折断等损伤" pan="-145.1" tilt="52.43" title="放电刷"/>
+      <hotspot target="" id="Point11" skinid="ht_info" url="" description="1.垂尾前缘的HF天线：提供远距离的声音通信（飞机间或与地面间）。在位，无雷击，无外来物损伤。&#xa;2.垂尾前缘：无损伤，无液压渗漏。" pan="-165.39" tilt="50.59" title="垂尾前缘的HF天线"/>
+      <hotspot target="" id="Pointa" skinid="ht_image2" url="images/1-19.png" description="水平安定面前缘：无鸟击、无雷击、无凹坑、无划伤等损伤" pan="-148" tilt="42.44" title="水平安定面前缘"/>
+      <hotspot target="" id="Point13" skinid="ht_info" url="" description="铰链连接良好，无液体渗漏，无鸟击，无雷击等其他损伤" pan="-135.59" tilt="33.48" title="升降舵调整片"/>
+      <hotspot target="" id="Point14" skinid="ht_info" url="" description="铰链连接良好，无液体渗漏，无鸟击，无雷击等其他损伤" pan="-116.82" tilt="37.49" title="升降舵"/>
+      <hotspot target="" id="Point15" skinid="ht_image" url="images/image-98.jpg" description="水平安定面每一边有3个放电刷，在位，无折断等损伤" pan="-96.67" tilt="38.38" title="放电刷"/>
+      <hotspot target="" id="Point16" skinid="ht_node" url="{node16}" description="" pan="-251.58" tilt="-6.96" title="右起落架区"/>
+      <hotspot target="" id="Point19" skinid="ht_image" url="images/image-79.jpg" description="防止负的压差，损坏飞机结构，这能防止飞机快速下降期间损坏结构。关闭；在空中，外界环境气压比座舱气压大于1PSI，就会打开" pan="-204.13" tilt="22.03" title="负释压活门"/>
+      <hotspot target="" id="Point20" skinid="ht_image2" url="images/1-6.jpg" description="厕所污水勤务盖板：无明显损伤、变形，盖板安装牢固，关闭后与蒙皮平齐，标识文字清晰完成" pan="-205.12" tilt="13.37" title="厕所污水勤务盖板"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" blendcolor="0x000000" softedge="0" zoomoutpause="1" enabled="1" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control contextprojections="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertwheel="0" lockedmouse="0" contextvr="1" zoomcentercursor="1" rubberband="0" invertcontrol="1" dblclickfullscreen="0" sensitivity="8" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input width="2992" height="2992" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="73.6772" projection="4" pan="22.7385" tilt="32.3643"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fov="140" fovstereographic="330" pan="360" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata tags="Pano2VR7" longitude="" heading="0" nodeid="node9" description="" source="" author="" latitude="" copyright="" info="" datetime="" customnodeid="" title="机尾左侧" comment=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label width="180" backgroundalpha="1" borderradius="1" wordwrap="1" background="1" height="20" textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="" id="Point01" skinid="ht_info" url="" description="锁好，封严好，手柄放回凹槽，门与附近机身蒙皮齐平，无雷击，无损伤" pan="-321.51" tilt="27.71" title="后登机门"/>
+      <hotspot target="" id="Point02" skinid="ht_info" url="" description="客舱窗户：固定良好，无划伤，无外来物损伤" pan="-305" tilt="28.13" title="客舱窗户"/>
+      <hotspot target="" id="Point03" skinid="ht_info" url="" description="灯丝无断裂，灯罩完好，可用" pan="-328.3" tilt="27.09" title="应急灯"/>
+      <hotspot target="" id="Point04" skinid="ht_image" url="images/image-179.png" description="目视检查后机身，确保无异常损伤、变形和液体渗漏" pan="-334.74" tilt="26.63" title="易刮碰区域"/>
+      <hotspot target="" id="Point05" skinid="ht_info" url="" description="后厨房水，后厕所洗手池水，后登机门集水槽水，都统一叫灰水。桅杆固定良好，无外来物损伤，无堵塞，无异常液体渗流。" pan="-326.53" tilt="13.46" title="后排泄桅杆"/>
+      <hotspot target="" id="Point06" skinid="ht_image" url="images/image-26.jpg" description="水平安定面附件舱接近门：锁扣锁好" pan="-339.11" tilt="17.63" title="水平安定面附件舱接近门"/>
+      <hotspot target="" id="Point07" skinid="ht_image" url="images/APU.jpg" description="APU舱门：锁扣锁好" pan="-350.42" tilt="19.94" title="APU舱门"/>
+      <hotspot target="" id="Point09" skinid="ht_info" url="" description="水平安定面与机身结合处：滑动封严在位，无损伤，无液体渗漏" pan="-347.72" tilt="26.93" title="水平安定面与机身结合处"/>
+      <hotspot target="" id="Point10" skinid="ht_info" url="" description="垂尾皮托管在位" pan="-334.13" tilt="37.59" title="皮托管"/>
+      <hotspot target="" id="Point11" skinid="ht_image2" url="images/1-53.png" description="各盖板固定牢固，铆钉无松动" pan="-347.8" tilt="35.59" title="垂尾易弹开盖板"/>
+      <hotspot target="" id="Point12" skinid="ht_image" url="images/image-105.jpg" description="垂尾4个放电刷在位，无折断等损伤" pan="-2.26" tilt="47.02" title="放电刷"/>
+      <hotspot target="" id="Point13" skinid="ht_image" url="images/1-43.png" description="水平安定面前缘：无鸟击、无雷击、无凹坑、无划伤等损伤" pan="-4.21" tilt="37.31" title="水平安定面前缘"/>
+      <hotspot target="" id="Point14" skinid="ht_info" url="" description="铰链连接良好，无液体渗漏，无鸟击，无雷击等其他损伤" pan="-11.92" tilt="29.61" title="升降舵调整片"/>
+      <hotspot target="" id="Point15" skinid="ht_info" url="" description="铰链连接良好，无液体渗漏，无鸟击，无雷击等其他损伤" pan="-21.69" tilt="32.9" title="升降舵"/>
+      <hotspot target="" id="Point16" skinid="ht_image" url="images/image-128.jpg" description="水平安定面每一边有3个放电刷，在位，无折断等损伤" pan="-41.6" tilt="36.94" title="放电刷"/>
+      <hotspot target="" id="Point17" skinid="ht_node" url="{node15}" description="" pan="-266.81" tilt="-6.5" title="左起落架区"/>
+      <hotspot target="" id="Point18" skinid="ht_node" url="{node5}" description="" pan="-340.6" tilt="-4.83" title="机尾右侧"/>
+      <hotspot target="" id="Point23" skinid="ht_image" url="images/image-92.jpg" description="有翼尖小翼：2个放电刷在位，无折断；无翼尖小翼：4个放电刷在位，无折断" pan="-184.88" tilt="20.62" title="放电刷"/>
+      <hotspot target="" id="Point24" skinid="ht_image" url="images/image-92.jpg" description="固定可靠，灯罩完好、可用" pan="-181.17" tilt="20.41" title="尾白灯"/>
+      <hotspot target="" id="Point32" skinid="ht_image2" url="images/1.jpg" description="" pan="-312.52" tilt="11.37" title="清水勤务面板"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" blendcolor="0x000000" softedge="0" zoomoutpause="1" enabled="1" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control contextprojections="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertwheel="0" lockedmouse="0" contextvr="1" zoomcentercursor="1" rubberband="0" invertcontrol="1" dblclickfullscreen="0" sensitivity="8" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input width="1488" height="1488" levelingroll="1.9403999999999999" levelbiashidpi="1.000" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingpitch="3.2446600000000001">
+      <level width="1488" preload="0" height="1488" predecode="0"/>
+      <level width="744" preload="0" height="744" predecode="0"/>
+      <level width="372" preload="1" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="92.444" projection="4" pan="2.96424" tilt="4.35094"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fov="140" fovstereographic="330" pan="360" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata tags="panorama" longitude="" heading="0" nodeid="node15" description="" source="" author="" latitude="" copyright="" info="" datetime="" customnodeid="" title="左起落架区" comment=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label width="180" backgroundalpha="1" borderradius="1" wordwrap="1" background="1" height="20" textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="" id="Point01" skinid="ht_node" url="{node9}" description="" pan="-141.56" tilt="-10.97" title="机尾左侧"/>
+      <hotspot target="" id="Point02" skinid="ht_info" url="" description="固定良好可靠，无明显损伤（上是外舱门，中舱门，下是内舱门）" pan="-344.5" tilt="15.76" title="轮舱门"/>
+      <hotspot target="" id="PointB" skinid="ht_image2" url="images/image-8.png" description="起落架镜面：镜面高度在勤务范围内，镜面无划痕、刻伤或凹槽，油液无明显渗漏" pan="-351.71" tilt="-2.33" title="镜面"/>
+      <hotspot target="" id="Point04" skinid="ht_image" url="images/image-141.jpg" description="无裂纹，紧固件无松脱，无损伤" pan="-338.29" tilt="-8.11" title="轮毂"/>
+      <hotspot target="" id="Point05" skinid="ht_image2" url="images/1-58.png" description="无扎伤、无磨损超标，无鼓包，掉块，分层现象（具体标准详见日检工卡）" pan="-345.61" tilt="-4.44" title="胎面和轮压"/>
+      <hotspot target="" id="Point06" skinid="ht_image" url="images/image-102.jpg" description="每一个都要检查。刹车毂作动筒无油液渗漏，无明显损伤，保险良好" pan="3.38001" tilt="-12.18" title="刹车毂作动筒"/>
+      <hotspot target="" id="Point07" skinid="ht_image" url="images/image-97.jpg" description="1.打压设置停留刹车后检查伸出长度满足日检工卡要求&#xa;2.检查液压接头无渗漏" pan="-357" tilt="-4.25" title="刹车指示销和液压接头"/>
+      <hotspot target="" id="Point08" skinid="ht_info" url="" description="左大翼翼身整流罩后部：封严好，无皱纹等重着陆现象，铆钉无松脱拉烟现象" pan="-53.97" tilt="32.6" title="左大翼翼身整流罩后部"/>
+      <hotspot target="" id="Point09" skinid="ht_info" url="" description="应急灯：灯丝无断裂，灯罩完好，可用" pan="-78.94" tilt="15.07" title="应急灯"/>
+      <hotspot target="" id="Point10" skinid="ht_info" url="" description="机身蒙皮：无凹坑、划痕、掉漆，紧固件无松动，蒙皮铆钉没有明显的拉烟现象" pan="-101.22" tilt="34.17" title="机身蒙皮"/>
+      <hotspot target="" id="Point03" skinid="ht_image" url="images/image-44.jpg" description="固定可靠，灯罩完好、可用" pan="-228.05" tilt="9.87" title="尾白灯"/>
+      <hotspot target="" id="Point11" skinid="ht_image" url="images/image-44.jpg" description="有翼尖小翼：2个放电刷在位，无折断；无翼尖小翼：4个放电刷在位，无折断" pan="-231.31" tilt="12.6" title="放电刷"/>
+      <hotspot target="" id="Point12" skinid="ht_node" url="{node10}" description="" pan="-234.85" tilt="-8.18" title="左大翼区"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" blendcolor="0x000000" softedge="0" zoomoutpause="1" enabled="1" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control contextprojections="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertwheel="0" lockedmouse="0" contextvr="1" zoomcentercursor="1" rubberband="0" invertcontrol="1" dblclickfullscreen="0" sensitivity="8" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input width="2992" height="2992" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="73.1771" projection="4" pan="155.556" tilt="26.0007"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fov="140" fovstereographic="330" pan="360" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata tags="Pano2VR7" longitude="" heading="0" nodeid="node10" description="" source="" author="" latitude="" copyright="" info="" datetime="" customnodeid="" title="左大翼区" comment=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label width="180" backgroundalpha="1" borderradius="1" wordwrap="1" background="1" height="20" textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="" id="Point01" skinid="ht_info" url="" description="1：缝翼，里边三个有防冰出气口，检查有无堵塞&#xa;2：缝翼前缘有无雷击、鸟击、划痕、凹坑&#xa;3：缝翼封严良好，作动链接处有无油液渗漏" pan="-219.07" tilt="28.21" title="缝翼"/>
+      <hotspot target="" id="Point02" skinid="ht_info" url="" description="1：缝翼，里边三个有防冰出气口，检查有无堵塞&#xa;2：缝翼前缘有无雷击、鸟击、划痕、凹坑&#xa;3：缝翼封严良好，作动链接处有无油液渗漏" pan="-151.5" tilt="23.95" title="缝翼"/>
+      <hotspot target="" id="Point03" skinid="ht_info" url="" description="船型整流罩：无液压渗漏，外观完好" pan="-190.19" tilt="19.55" title="船型整流罩"/>
+      <hotspot target="" id="Point04" skinid="ht_info" url="" description="船型整流罩：无液压渗漏，外观完好" pan="-159.16" tilt="12.39" title="船型整流罩"/>
+      <hotspot target="" id="Point05" skinid="ht_info" url="" description="船型整流罩：无液压渗漏，外观完好" pan="-170.88" tilt="15.86" title="船型整流罩"/>
+      <hotspot target="" id="Point06" skinid="ht_info" url="" description="收上在位，铰链完好，封严好，无渗漏，无损伤" pan="-178.88" tilt="19.29" title="后缘襟翼"/>
+      <hotspot target="" id="Point07" skinid="ht_info" url="" description="在位，清晰，完好" pan="-202.95" tilt="26.41" title="印刷字体"/>
+      <hotspot target="" id="Point08" skinid="ht_image" url="images/image-4.jpg" description="涡流发生器在位，固定良好，且无外来物损伤" pan="-168.25" tilt="28.78" title="涡流发生器"/>
+      <hotspot target="" id="Point09" skinid="ht_image" url="images/2.png" description="1：副翼：操纵飞机的纵轴飞行姿态。在横滚操纵期间，一侧机翼的副翼向上运动，另一侧机翼的副翼向下运动。铰链完好，封严好，无渗漏，无损伤。&#xa;2：副翼调整片：调整片作用是帮助驾驶员操纵舵面用的，波音系列都是钢索控制，控制调整片的偏度可以改变主操纵面上的铰链力矩，减小的驾驶杆（或脚蹬）力，以减轻驾驶员的负担。" pan="-212.82" tilt="22.02" title="副翼和副翼调整片"/>
+      <hotspot target="" id="Point10" skinid="ht_info" url="" description="1：缝翼，里边三个有防冰出气口，检查有无堵塞&#xa;2：缝翼前缘有无雷击、鸟击、划痕、凹坑&#xa;3：缝翼封严良好，作动链接处有无油液渗漏" pan="-182.81" tilt="30.21" title="缝翼"/>
+      <hotspot target="" id="Point11" skinid="ht_image" url="images/image-8.jpg" description="1.油箱通风口：保持燃油箱中的压力接近环境压力，过大的压差会损坏机翼结构。通气口无堵塞，无燃油流出。&#xa;2.火焰抑制器（作用：可防止过多热量进入燃油通气系统）无堵塞且在位。&#xa;3.压力释放活门：在油箱中正压或负压过大时，释压活门打开。压力释放活门复位手柄与机翼下表面平齐" pan="-221.06" tilt="23.37" title="油箱通风口和释压活门"/>
+      <hotspot target="" id="Pointb" skinid="ht_image2" url="images/1-26.png" description="固定可靠、灯罩完好、可用（通过驾驶舱测试好坏）" pan="-235.3" tilt="22.1" title="航行灯和频闪灯"/>
+      <hotspot target="" id="Point13" skinid="ht_node" url="{node2}" description="" pan="-146.51" tilt="-4.7" title="左起落架区"/>
+      <hotspot target="" id="Point14" skinid="ht_info" url="" description="吊架附近：吊架锁扣扣好，螺钉无丢失&#xa;吊架下面面板：无划伤，螺钉无丢失" pan="-126.91" tilt="19.76" title="吊架"/>
+      <hotspot target="" id="Point15" skinid="ht_info" url="" description="上下左右，每台发动机有4个，固定在位，铆钉无松脱" pan="-130.55" tilt="17.45" title="反推作用盖板"/>
+      <hotspot target="" id="Point16" skinid="ht_info" url="" description="发动机反推*最底、最后端，若发动机受到雷击，最容易从这释放雷击电，会出现雷击释放点" pan="-133.81" tilt="4.82" title="易雷击点"/>
+      <hotspot target="" id="Point17" skinid="ht_image" url="images/image-12.png" description="启动机超控接近口，启动机不工作，人工控制启动活门，需要工具是加长杆和扳手，旋转开启或关闭；机组说可以启动才扳动开启，有APU引气进来，带动启动机转动；启动好后，机组说关闭，才关闭，要是关不了就不能放行。如果左边发动机有这个问题，那机务就不能再登上该飞机" pan="-116.89" tilt="12.46" title="启动机超控接近口"/>
+      <hotspot target="" id="Point18" skinid="ht_image" url="images/IDG.png" description="按压15秒通气活门，在本体上观察IDG滑油量，左发读左边，右发读右边；压差指示销有没有弹出：前两次弹出换油滤，第三次弹出要换IDG；加油口堵盖有没有盖好；IDG盖板上的标志，如果模糊或被刮落，要报放行。" pan="-115.01" tilt="7.23" title="IDG勤务面板"/>
+      <hotspot target="" id="Point19" skinid="ht_info" url="" description="先走远点，内外上下都检查，有无雷击、鸟击、凹坑" pan="-106.47" tilt="13.2" title="发动机唇口"/>
+      <hotspot target="" id="Point20" skinid="ht_node" url="{node3}" description="" pan="-101.47" tilt="-2.18" title="左发区"/>
+      <hotspot target="" id="Point21" skinid="ht_info" url="" description="上下左右，每台发动机有4个，固定在位，铆钉无松脱" pan="-130.35" tilt="13.03" title="反推作动接近盖板"/>
+      <hotspot target="" id="Point22" skinid="ht_image" url="images/image-58.jpg" description="解除反推销在驾驶舱器材包里，将销子插进四个反推解除孔内，反推失效" pan="-124.55" tilt="13.17" title="反推解除插孔"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" blendcolor="0x000000" softedge="0" zoomoutpause="1" enabled="1" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control contextprojections="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertwheel="0" lockedmouse="0" contextvr="1" zoomcentercursor="1" rubberband="0" invertcontrol="1" dblclickfullscreen="0" sensitivity="8" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="2992" height="2992" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="92.444" projection="4" pan="7.36382" tilt="24.2424"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fov="140" fovstereographic="330" pan="360" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata tags="yezi" longitude="" heading="0" nodeid="node3" description="" source="" author="" latitude="" copyright="" info="" datetime="" customnodeid="" title="左发区" comment=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label width="180" backgroundalpha="1" borderradius="1" wordwrap="1" background="1" height="20" textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="" id="Point01" skinid="ht_node" url="{node11}" description="" pan="-224.3" tilt="-9.64" title="左机头区"/>
+      <hotspot target="" id="Point03" skinid="ht_image2" url="images/image-199.png" description="消音板：无划伤、凹坑和压痕。&#xa;风扇叶片：先顺时针绕外侧一圈检查，再顺时针绕风扇根部一圈检查，再一片片仔细的检查：无裂纹、凹坑、鸟击、划伤等损伤。&#xa;进气道唇口：先走远点，内外上下都检查，有无雷击、鸟击、凹坑。" pan="-357.44" tilt="22.43" title="发动机视图"/>
+      <hotspot target="" id="Point05" skinid="ht_info" url="" description="克鲁格襟翼（2个）在收上位，封严，无渗漏" pan="-331" tilt="21.27" title="克鲁格襟翼"/>
+      <hotspot target="" id="Point06" skinid="ht_info" url="" description="大翼前缘：无雷击、无鸟击、无凹坑、无划伤" pan="-327.75" tilt="25.41" title="大翼前缘"/>
+      <hotspot target="" id="Point07" skinid="ht_image" url="images/image-6.png" description="转弯灯与固定着陆灯：灯丝无断裂，灯罩完好" pan="-320.72" tilt="24.54" title="转弯灯与固定着陆灯"/>
+      <hotspot target="" use3D="1" id="Point08" url="{node10}" customimageheight="1659" description="" fov="8" pan="-29.57" tilt="-5.25" distance3D="13499.8" customimagewidth="1888" skinid="ht_node" customimage="media/image-5.png" title="左大翼区"/>
+      <hotspot target="" id="Point09" skinid="ht_info" url="" description="大翼翼身整流罩：封严条完好，无皱纹等重着陆现象，铆钉无松脱" pan="-305.59" tilt="22.93" title="大翼翼身整流罩"/>
+      <hotspot target="" id="Point10" skinid="ht_node" url="{node2}" description="" pan="-343.62" tilt="-6.75" title="左前缘区"/>
+      <hotspot target="" id="Point11" skinid="ht_info" url="" description="左大翼照明灯" pan="-308.34" tilt="33.5" title="左大翼照明灯"/>
+      <hotspot target="" id="Point12" skinid="ht_image" url="images/image-3.jpg" description="备用静压孔" pan="-258.99" tilt="17.6" title="备用静压孔"/>
+      <hotspot target="" id="Point13" skinid="ht_image" url="images/T12.jpg" description="1：EEC冷却空气进气口；无堵塞&#xa;2：T12接近盖板" pan="-338.49" tilt="33.79" title="T12接近盖板"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" blendcolor="0x000000" softedge="0" zoomoutpause="1" enabled="1" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control contextprojections="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertwheel="0" lockedmouse="0" contextvr="1" zoomcentercursor="1" rubberband="0" invertcontrol="1" dblclickfullscreen="0" sensitivity="8" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="2992" height="2992" levelingroll="0.36311100000000002" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingpitch="-0.44655499999999998">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" projection="4" pan="-22.5075" tilt="16.6422"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fov="140" fovstereographic="330" pan="360" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata tags="yezi" longitude="" heading="0" nodeid="node2" description="" source="" author="" latitude="" copyright="" info="" datetime="" customnodeid="" title="左前缘区" comment=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label width="180" backgroundalpha="1" borderradius="1" wordwrap="1" background="1" height="20" textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="" id="Point02" skinid="ht_image" url="images/image-135.png" description="起落架安全销在位，内外桶未分离" pan="-349.32" tilt="32.59" title="起落架安全销"/>
+      <hotspot target="" id="Point05" skinid="ht_image" url="images/image-76.jpg" description="左右起落架减摆器间隙会不一样，因为飞机停下来的时候，减摆器在什么位置就瞬时停留在什么位置，因而间隙指示会不一样。" pan="-1.88" tilt="4.44" title="减摆器"/>
+      <hotspot target="" id="Point06" skinid="ht_image" url="images/image-76.jpg" description="无损伤" pan="-358.44" tilt="10.05" title="防扭臂"/>
+      <hotspot target="" id="Point07" skinid="ht_info" url="" description="放油口：无燃油渗漏" pan="-229.25" tilt="64.79" title="放油口"/>
+      <hotspot target="" id="Point08" skinid="ht_info" url="" description="油尺：共16个油尺，每侧8个，每侧1到2号为中央油箱油尺，3到8号为相对应的主油箱油尺。油尺凹槽要与旁边的两点相对在一条直线上，无突出，无燃油渗漏" pan="-41.39" tilt="64.4" title="油尺"/>
+      <hotspot target="" id="Point09" skinid="ht_info" url="" description="用于漏燃油。正常情况无异常液体漏出" pan="-44.35" tilt="23.71" title="吊架余油口"/>
+      <hotspot target="" id="Point10" skinid="ht_info" url="" description="无划伤，螺钉无丢失" pan="-59.81" tilt="38.03" title="吊架下面板"/>
+      <hotspot target="" id="Point11" skinid="ht_info" url="" description="无烧蚀的裂纹，无明显损伤" pan="-59.26" tilt="23.46" title="尾椎"/>
+      <hotspot target="" id="Point12" skinid="ht_info" url="" description="飞机在空中飞行，表面会形成层流附面层和外一层的紊流附面层，因为层流附面层薄，空气阻力大，耗油，然后安装了涡流发生器，增加了层流附面层的厚度，减少了空气阻力，省油。同样道理，增加翼尖小翼，减少诱导阻力，省油。检查涡流发生器在位，封严完好无缺损" pan="-149.23" tilt="34.74" title="涡流发生器"/>
+      <hotspot target="" id="Point13" skinid="ht_image2" url="images/image-55.jpg" description="确认发动机口盖盖好且锁定" pan="-144.63" tilt="23.16" title="滑油勤务盖板"/>
+      <hotspot target="" id="Point14" skinid="ht_node" url="{node11}" description="" pan="-182.06" tilt="-6.2" title="左机头区"/>
+      <hotspot target="" id="Point15" skinid="ht_image2" url="images/1-21.jpg" description="拆流门：固定、无损伤&#xa;冲压门：全开位&#xa;进气道：无异物" pan="-205.74" tilt="24.07" title="冲压进气口"/>
+      <hotspot target="" id="Point16" skinid="ht_image" url="images/image-15.jpg" description="可收放着陆灯：灯丝无断裂，灯罩完好" pan="-51.28" tilt="16.03" title="可收放着陆灯"/>
+      <hotspot target="" id="Point17" skinid="ht_node" url="{node14}" description="" pan="-326.44" tilt="-9.74" title="轮舱"/>
+      <hotspot target="" id="Point18" skinid="ht_node" url="{node9}" description="" pan="-27.4" tilt="-3.12" title="机尾左侧"/>
+      <hotspot target="" id="Point01" skinid="ht_image2" url="images/1.png" description="1：内涵道壁板：紧固件无松脱，无烧蚀的裂纹，无明显损伤&#xa;2：最后一级涡轮导向叶片：无明显的烧蚀，裂纹，掉块等损伤&#xa;3：最后一级涡轮叶片：无明显的烧蚀，裂纹，掉块等损伤。&#xa;1：外涵道壁板：紧固件无松脱，无烧蚀的裂纹，无明显损伤&#xa;2：反推折流门拉杆&#xa;3：外涵道支撑杆：无明显损伤&#xa;4：外涵道出口导向叶片：无凹坑、无裂纹，掉块等损伤&#xa;5：IDG散热器：固定在位&#xa;1：火焰抑制器：钢网完好，不能有漏油，漏油报放行（为什么会漏油：油气分离得不完全）火焰抑制器往里是5号轴承；&#xa;10：反推对齐黑线对齐" pan="-87.56" tilt="27.41" title="发动机后视图"/>
+      <hotspot target="" id="Point19" skinid="ht_info" url="" description="上下左右，每台发动机有4个，固定在位，铆钉无松脱" pan="-110.27" tilt="31.99" title="反推作动接近盖板"/>
+      <hotspot target="" id="Point20" skinid="ht_image" url="images/image-58.jpg" description="解除反推销在驾驶舱器材包里，将销子插进四个反推解除孔内，反推失效" pan="-129.47" tilt="33.27" title="反推解除插孔"/>
+      <hotspot target="" id="Point21" skinid="ht_image" url="images/image-95.png" description="1.拔磁堵接近盖板：锁扣扣好&#xa;2.趴下观察反推锁扣，6个扣好在位&#xa;3.启动机排气口&#xa;4.滑油余油口；燃油余油口；IDG滑油与液压余油口；检查无液体渗漏，如滑油渗漏（不包括IDG滑油冷却系统）放行标准，1分钟不超过7滴；&#xa;5.风扇*锁扣3个扣好" pan="-123.67" tilt="9.66" title="发动机底部视图"/>
+      <hotspot target="" id="Point22" skinid="ht_info" url="" description="外空调接口" pan="-232.11" tilt="16.36" title="外空调接口"/>
+      <hotspot target="" id="Point23" skinid="ht_info" url="" description="空调组件接近盖板：锁扣锁好" pan="-268.32" tilt="28.51" title="空调组件接近盖板"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" blendcolor="0x000000" softedge="0" zoomoutpause="1" enabled="1" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control contextprojections="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertwheel="0" lockedmouse="0" contextvr="1" zoomcentercursor="1" rubberband="0" invertcontrol="1" dblclickfullscreen="0" sensitivity="8" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input width="2992" height="2992" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100.306" projection="4" pan="-1.31539" tilt="40.068"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fov="140" fovstereographic="330" pan="360" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata tags="737-500" longitude="" heading="0" nodeid="node14" description="" source="" author="" latitude="" copyright="" info="" datetime="" customnodeid="" title="轮舱外" comment=""/>
+    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
+      <label width="180" backgroundalpha="1" borderradius="1" wordwrap="1" background="1" height="20" textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="" id="Point01" skinid="ht_node" url="{node17}" description="" pan="-176.56" tilt="-4.92" title="前部机腹"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" blendcolor="0x000000" softedge="0" zoomoutpause="1" enabled="1" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control contextprojections="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertwheel="0" lockedmouse="0" contextvr="1" zoomcentercursor="1" rubberband="0" invertcontrol="1" dblclickfullscreen="0" sensitivity="8" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" description="" copyright="" title="" author="" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
